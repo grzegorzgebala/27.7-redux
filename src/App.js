@@ -5,7 +5,9 @@ import CommentsListContainer from "./CommentsListContainer";
 const App = () => {
   return (
     <div className="App">
-      Lista Komentarzy:
+      <div className="App-header">
+        Lista Komentarzy:
+      </div>
       <CommentsListContainer />
     </div>
   );

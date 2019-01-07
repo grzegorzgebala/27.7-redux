@@ -1,0 +1,14 @@
+li {
+	display: block;
+}
+
+span {
+	display: block;
+}
+
+button {
+	height: 40px;
+	width: 120px;
+	margin: 0 10px;
+	margin-bottom: 10px;
+}
